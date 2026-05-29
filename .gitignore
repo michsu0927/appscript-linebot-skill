@@ -1,0 +1,6 @@
+# Sensitive data
+script/linemessage.json
+script/reply.log
+
+# Config with real credentials
+config.json
